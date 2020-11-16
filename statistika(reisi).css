@@ -1,0 +1,213 @@
+/* Backround */
+
+.classname{position: absolute;
+    width: 1028px;
+    height: 672px;
+    
+    background: url(image.png);
+
+mix-blend-mode: lighten;
+}
+
+
+/* Rectangle under header */
+
+.classname{position: absolute;
+    width: 427px;
+    height: 67px;
+    
+    background: #C4C4C4;
+mix-blend-mode: soft-light;
+opacity: 0.3;
+}
+
+
+/* Statistika(header) */
+
+.classname{
+position: absolute;
+width: 427px;
+height: 67px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 48px;
+line-height: 55px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+
+/* Rectangle around stat bars */
+
+
+.classname{
+position: absolute;
+width: 893.5px;
+height: 418px;
+
+background: rgba(164, 225, 244, 0.7);
+
+
+/* 2013 */
+
+
+position: absolute;
+width: 80px;
+height: 32px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 2014 */
+
+
+position: absolute;
+width: 80px;
+height: 32px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 2015 */
+
+
+position: absolute;
+width: 80px;
+height: 32px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 2016 */
+
+
+position: absolute;
+width: 80px;
+height: 32px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 2017 */
+
+
+position: absolute;
+width: 80px;
+height: 32px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 2018 */
+
+
+position: absolute;
+width: 80px;
+height: 32px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 2019 */
+
+
+position: absolute;
+width: 80px;
+height: 32px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 2020 */
+
+
+position: absolute;
+width: 80px;
+height: 32px;
+
+font-family: Arial;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 15px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
