@@ -29,37 +29,17 @@
     height: 50px;
     margin-top: 70px;
   }
-
-  /* Frame 5 */
 .adminpassword{
-position: absolute;
-width: 158px;
-height: 33px;
-left: 329px;
-top: 99px;
+    width: 200px; 
+    height: 50px;
+    margin-left: 470px; 
+    margin-top: 65px;
+    border: solid 2px black;
 }
-/*background: #FFFFFF;
-border: 1px solid #000000;
-box-sizing: border-box;
-
-
-/* password 
-
-position: absolute;
-width: 158px;
-height: 33px;
-left: 0px;
-top: 0px;
-
-font-family: Archivo Narrow;
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 24px;
-display: flex;
-align-items: center;
-text-align: center;
-
-color: #000000;
-*/
-
+.adminbutton{
+    width: 100px;
+    height: 51px;
+    border: solid 2px black;
+    border-radius: 0px 15px 15px 0px;
+    background-color: darkturquoise;
+}
