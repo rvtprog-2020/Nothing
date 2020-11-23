@@ -1,1 +1,6 @@
-# dp2-1_6grupa_lidostas_majaslapa
+# dp21-6grupa-lidosta
+# Grupas
+# Gusts Henrijs Stanga
+# Toms Rafaels Arkls
+# Maikls Deivids Beginskis
+# Aleksejs Kurakins
