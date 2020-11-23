@@ -1,0 +1,176 @@
+    /* background */
+
+    .classname{
+    position: absolute;
+    width: 1028px;
+    height: 672px;
+    
+    background: url(image.png);
+    mix-blend-mode: lighten;}
+    
+    /* Rectangles 1,6,9 (cols)*/
+    
+    .classname{
+    position: absolute;
+    width: 205px;
+    height: 391px;
+    
+    background: #000000;
+    mix-blend-mode: overlay;}
+    
+    
+    /* page head */
+
+    .classname{
+    position: absolute;
+    width: 612px;
+    height: 88px;
+
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 70px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+    mix-blend-mode: normal;}
+   
+   /* Rectangles 7,10 (buttons) */
+
+    .classname{
+    position: absolute;
+    width: 205px;
+    height: 58px;
+
+    background: #69E6EE;
+    mix-blend-mode: hard-light;}
+   
+    /* Rectangle 8 (delete button)*/
+
+    .classname{
+    position: absolute;
+    width: 205px;
+    height: 58px;
+
+    ackground: #E86868;
+    mix-blend-mode: hard-light;}
+
+    /* Rectangle 11,12,13 (column header)*/
+
+    .classname{
+    position: absolute;
+    width: 205px;
+    height: 29px;
+
+    background: #292929;
+    mix-blend-mode: hard-light;
+    opacity: 0.5;}
+
+    /* text in rect 7,8,10 */
+
+    .classname{
+    position: absolute;
+    width: 205px;
+    height: 58px;
+
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 39px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;}
+
+    /* text in rect 11,12,13 */
+
+    .classname{
+    position: absolute;
+    width: 205px;
+    height: 29px;
+
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+    mix-blend-mode: hard-light;}
+
+    /* Rectangle 14 (bewahrung, for reisi)*/
+
+    .classname{
+    position: absolute;
+    width: 96px;
+    height: 50px;
+
+    background: #292929;
+    mix-blend-mode: hard-light;
+    opacity: 0.5;}
+
+    /* text in rect 14 */
+
+    .classname{
+    position: absolute;
+    width: 96px;
+    height: 50px;
+
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;}
+
+    /* Rectangle 9,14 (small cols) */
+
+    .classname{
+    position: absolute;
+    width: 100px;
+    height: 391px;
+
+    background: #000000;
+    mix-blend-mode: overlay;}
+
+    /* Rectangle 12,15 (small col head rect, for plane list)*/
+
+    .classname{
+    position: absolute;
+    width: 100px;
+    height: 29px;
+
+    background: rgba(41, 41, 41, 0.5);
+    mix-blend-mode: hard-light;}
+
+    /* small col head (for plane list) */
+
+        .classname{
+    position: absolute;
+    width: 100px;
+    height: 29px;
+
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;}
