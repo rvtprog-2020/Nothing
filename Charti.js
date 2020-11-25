@@ -22,11 +22,11 @@ window.onload = function () {
 	  ['2020', 8]
 	  ///
 	]);
-	  ///seit vari mainit izmeru un nosaukumu
-	  var options = {'title':'Statistika', 'width':720, 'height':480};
-	  ///vajag LineChart vai ColumnChart ↓
+	  ///seit vari mainit izmeru un nosaukumu un krasu
+	  /// saite prieks krasam https://www.color-hex.com/
+	  var options = {'title':'Statistika', 'width':720, 'height':480, 'colors':['#000000']};
+	  ///tev vajag LineChart vai ColumnChart ↓
 	  var chart = new google.visualization.ColumnChart(document.getElementById('ColumnChart'));
 	  chart.draw(data, options);
 	}
 }
-
